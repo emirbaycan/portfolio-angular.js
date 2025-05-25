@@ -1,0 +1,469 @@
+{
+	"Header.Item1": "About me",
+	"Header.Item2": "Experiences",
+	"Header.Item3": "Contact",
+	"Header.cvBtn": "Resume",
+	"Header.cvName": "cv.pdf",
+	"Banner.Pretitle": "Hello! My name is",
+	"Banner.Title1": "Emir Baycan.",
+	"Banner.Title2": "I build digital platforms.",
+	"Banner.Description": "I'm a software engineer with <span class='underline'>over 5 years of experience</span>, specializing in developing systems, interfaces, bots, and technological solutions. I pride myself on my ability to translate project requirements into visually appealing and efficient solutions.",
+	"Banner.ActionBtn": "Get in touch",
+	"AboutMe.Title": "About me",
+	"AboutMe.Paragraphs": [
+		"Hey there, I'm Emir Baycan. I hold long variety of skills and currently exploring the world of Mobile App Design and Development. Throughout my career, I've been involved in various large-scale projects, prioritizing responsive design, performance optimization, and cross-functional collaboration. I love turning a project's 'wish list' into something that not only looks great but also performs well.",
+		"On a typical day, you'll find me working hand-in-hand with backend engineers on API integrations, turning designs into actual, clickable things, and squashing bugs with our QA team. I'm all about teamwork, taking ownership of what I do, and always looking for ways to help others grow in their roles, too.",
+		"Some of the technologies that I have trained and worked on include (but are not limited to):"
+	],
+	"AboutMe.conclude": [
+		"So that's a bit about me. Can't wait to bring my skills and passion to some more exciting projects!"
+	],
+	"Experience.Title": "Where I've Worked",
+	"Experience.Jobs": [
+		{
+			"Tab": "Example Comapny",
+			"Title": "Senior Software Developer",
+			"Date": "May 1998 - Present",
+			"Description": [
+				"Example",
+				"Example"
+			]
+		}  
+	],
+	"FeatureProjects.Title": "Experiences",
+	"FeatureProjects.Label": "Featured Project",
+	"FeatureProjects.Projects": [
+		{
+			"Title": "Kalenuxer",
+			"Description": "A next-generation web application framework engineered for maximum performance and flexibility. Kalenuxer delivers a comprehensive suite: multi-language support, advanced minification and obfuscation, server-side rendering, modular templating (mails, sections, pages), classification, SVG-to-icon conversion, version control, optimized CSS/JS structure, and robust localization—empowering rapid development of scalable, production-grade applications.",
+			"imgs": [
+				"assets/images/kalenuxer/1.webp"
+			],
+			"demoLink": "https://github.com/emirbaycan/Kalenuxer",
+			"Technologies": [
+				"PHP",
+				"Node.js",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL",
+				"AWS",
+				"Git"
+			]
+		},
+		{
+			"Title": "My Partners Law Firm",
+			"Description": "Custom-built website and control panel for a leading law firm, leveraging Kalenuxer’s SSR algorithms to seamlessly convert dynamic SQL data into optimized HTML structures. Delivers real-time content updates, secure client management, and a powerful admin interface tailored to legal workflows.",
+			"imgs": [
+				"assets/images/myp/1.webp",
+				"assets/images/myp/2.webp",
+				"assets/images/myp/3.webp",
+				"assets/images/myp/4.webp",
+				"assets/images/myp/5.webp",
+				"assets/images/myp/6.webp",
+				"assets/images/myp/7.webp",
+				"assets/images/myp/8.webp",
+				"assets/images/myp/9.webp",
+				"assets/images/myp/10.webp",
+				"assets/images/myp/11.webp",
+				"assets/images/myp/12.webp"
+			],
+			"demoLink": "https://myp.emirbaycan.com.tr",
+			"ghLink": "https://mypartnerslawfirm.com",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Hukuki Yeterlilik Akademisi",
+			"Description": "Comprehensive website and admin panel for an education services firm, built with Kalenuxer. Features secure course management, multi-level user access, and real-time updates, designed for scalability and seamless content delivery.",
+			"imgs": [
+				"assets/images/hya/1.webp",
+				"assets/images/hya/2.webp",
+				"assets/images/hya/3.webp",
+				"assets/images/hya/4.webp",
+				"assets/images/hya/5.webp",
+				"assets/images/hya/6.webp",
+				"assets/images/hya/7.webp",
+				"assets/images/hya/8.webp",
+				"assets/images/hya/9.webp",
+				"assets/images/hya/10.webp",
+				"assets/images/hya/11.webp",
+				"assets/images/hya/12.webp"
+			],
+			"demoLink": "https://hya.emirbaycan.com.tr",
+			"ghLink": "https://hukukiyeterlilikakademisi.com",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Morkoç Law Firm",
+			"Description": "High-impact website and bespoke control panel for a law firm, built on Kalenuxer. Focus on speed, secure case management, and dynamic content delivery—tailored for the legal industry’s demanding standards.",
+			"imgs": [
+				"assets/images/morkoc/1.webp",
+				"assets/images/morkoc/2.webp",
+				"assets/images/morkoc/3.webp",
+				"assets/images/morkoc/4.webp",
+				"assets/images/morkoc/5.webp",
+				"assets/images/morkoc/6.webp",
+				"assets/images/morkoc/7.webp",
+				"assets/images/morkoc/8.webp",
+				"assets/images/morkoc/9.webp",
+				"assets/images/morkoc/10.webp",
+				"assets/images/morkoc/11.webp",
+				"assets/images/morkoc/12.webp"
+			],
+			"demoLink": "https://lawnux.emirbaycan.com.tr",
+			"ghLink": "https://morkoc.av.tr",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Karalar Prefabric",
+			"Description": "Fully-managed website and administration panel for a prefabricated housing firm, powered by Kalenuxer. Delivers advanced catalog management, customer interaction tools, and robust backend capabilities for business growth.",
+			"imgs": [
+				"assets/images/kp/1.webp",
+				"assets/images/kp/2.webp",
+				"assets/images/kp/3.webp",
+				"assets/images/kp/4.webp",
+				"assets/images/kp/5.webp",
+				"assets/images/kp/6.webp",
+				"assets/images/kp/7.webp",
+				"assets/images/kp/8.webp",
+				"assets/images/kp/9.webp",
+				"assets/images/kp/10.webp",
+				"assets/images/kp/11.webp",
+				"assets/images/kp/12.webp",
+				"assets/images/kp/13.webp",
+				"assets/images/kp/14.webp"
+			],
+			"demoLink": "https://kp.emirbaycan.com.tr",
+			"ghLink": "https://karalarprefabrik.com",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Eyüp Sultan Tulumbacısı",
+			"Description": "Brand-forward website for a popular dessert company, developed with Kalenuxer. Optimized for user engagement and high-conversion, featuring product showcases and an intuitive, easy-to-manage backend.",
+			"imgs": [
+				"assets/images/est/1.webp",
+				"assets/images/est/2.webp",
+				"assets/images/est/3.webp",
+				"assets/images/est/4.webp",
+				"assets/images/est/5.webp",
+				"assets/images/est/6.webp",
+				"assets/images/est/7.webp"
+			],
+			"demoLink": "https://eyp.emirbaycan.com.tr",
+			"ghLink": "https://eyupsultantulumbacisi.com",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Girişimci Hukukçular Derneği",
+			"Description": "First-of-its-kind web platform and management system for a law society, utilizing the LAMP stack. Includes member management, event automation, and secure communications modules.",
+			"imgs": [
+				"assets/images/ghd/1.webp",
+				"assets/images/ghd/2.webp",
+				"assets/images/ghd/3.webp",
+				"assets/images/ghd/4.webp",
+				"assets/images/ghd/5.webp"
+			],
+			"demoLink": "https://ghd.emirbaycan.com.tr",
+			"ghLink": "https://girisimcihukukculardernegi.com",
+			"Technologies": [
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Hukuk Eğitim Programları",
+			"Description": "End-to-end website and control panel for an education collective, continuously updated with new features. Built on Kalenuxer, supporting multi-course content and custom reporting.",
+			"imgs": [
+				"assets/images/hep/1.webp",
+				"assets/images/hep/2.webp",
+				"assets/images/hep/3.webp",
+				"assets/images/hep/4.webp",
+				"assets/images/hep/5.webp",
+				"assets/images/hep/6.webp",
+				"assets/images/hep/7.webp",
+				"assets/images/hep/8.webp",
+				"assets/images/hep/9.webp"
+			],
+			"demoLink": "https://hep.emirbaycan.com.tr",
+			"ghLink": "https://hukukegitimprogramlari.com.tr",
+			"Technologies": [
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Do Eloboost",
+			"Description": "Robust website and backend system for an online gaming service, built with Kalenuxer and optimized for performance, automation, and secure client management.",
+			"imgs": [
+				"assets/images/de/1.webp"
+			],
+			"demoLink": "https://de.emirbaycan.com.tr",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Terapi Kliniği",
+			"Description": "Dynamic website and control panel for a psychologist practice, engineered with Laravel and custom JavaScript libraries. Successfully adapted Laravel for standard shared hosting, optimizing both backend logic and client-side interactivity.",
+			"imgs": [
+				"assets/images/tk/1.webp"
+			],
+			"Technologies": [
+				"Laravel",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Murat Bulat Law Firm",
+			"Description": "Feature-rich website and management panel for a law office, developed on the LAMP stack. Provides automated case management, secure client portals, and streamlined admin tools.",
+			"imgs": [
+				"assets/images/mb/1.webp"
+			],
+			"Technologies": [
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Portfolio w Kalenuxer",
+			"Description": "Multi-language portfolio websites developed as a technical showcase using Kalenuxer and LAMP—demonstrating full-stack proficiency and clean, scalable architecture.",
+			"imgs": [
+				"assets/images/lamp/1.webp",
+				"assets/images/lamp/2.webp",
+				"assets/images/lamp/3.webp",
+				"assets/images/lamp/4.webp",
+				"assets/images/lamp/5.webp"
+			],
+			"demoLink": "https://lamp.emirbaycan.com.tr",
+			"Technologies": [
+				"Kalenuxer",
+				"PHP",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"MySQL"
+			]
+		},
+		{
+			"Title": "Portfolio w React",
+			"Description": "Multi-language portfolio sites designed with React, Node.js, and MySQL on Ubuntu/Apache. Highlights advanced front-end techniques and seamless integration with backend infrastructure.",
+			"imgs": [
+				"assets/images/mern/1.webp",
+				"assets/images/mern/2.webp",
+				"assets/images/mern/3.webp",
+				"assets/images/mern/4.webp",
+				"assets/images/mern/5.webp",
+				"assets/images/mern/6.webp"
+			],
+			"demoLink": "https://mern.emirbaycan.com.tr",
+			"Technologies": [
+				"React",
+				"Node.js",
+				"MySQL",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"Ubuntu",
+				"Apache"
+			]
+		},
+		{
+			"Title": "Portfolio w Laravel & React",
+			"Description": "Full-stack portfolio websites built as technical proof-of-concept projects, combining Laravel, React, Node.js, and Three.js for modern, interactive UI/UX.",
+			"imgs": [
+				"assets/images/nmlr/1.webp",
+				"assets/images/nmlr/2.webp",
+				"assets/images/nmlr/3.webp",
+				"assets/images/nmlr/4.webp"
+			],
+			"demoLink": "https://nmlr.emirbaycan.com.tr",
+			"Technologies": [
+				"Laravel",
+				"React",
+				"Node.js",
+				"Three.js",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"Apache",
+				"Ubuntu"
+			]
+		},
+		{
+			"Title": "Portfolio w Nextjs",
+			"Description": "Next.js-based multi-language portfolio sites, featuring dynamic content delivery, email integration via Resend, and scalable cloud hosting solutions.",
+			"imgs": [
+				"assets/images/next/1.webp",
+				"assets/images/next/2.webp",
+				"assets/images/next/3.webp",
+				"assets/images/next/4.webp"
+			],
+			"demoLink": "https://next.emirbaycan.com.tr",
+			"Technologies": [
+				"Next.js",
+				"Resend",
+				"Node.js",
+				"HTML5",
+				"CSS3",
+				"JavaScript",
+				"Apache",
+				"Ubuntu"
+			]
+		},
+		{
+			"Title": "Account Creator",
+			"Description": "Automated account creator for social platforms, utilizing C#, Selenium, Geckofx, and cloud services (AWS, Google Cloud, Azure). Enables high-volume, unattended account registrations with VPN/proxy support.",
+			"imgs": [
+				"assets/images/ac/1.webp"
+			],
+			"Technologies": [
+				"C#",
+				"Selenium",
+				"Geckofx",
+				"AWS",
+				"Google Cloud",
+				"Azure",
+				"Firefox Build"
+			]
+		},
+		{
+			"Title": "Voter",
+			"Description": "Automated human-data generator using Python, Selenium, and Tor Browser IP rotation—built for scalable, anonymized user simulation.",
+			"imgs": [
+				"assets/images/v/1.webp"
+			],
+			"Technologies": [
+				"Python",
+				"Selenium",
+				"Tor Browser"
+			]
+		},
+		{
+			"Title": "Height and Speed Calculator",
+			"Description": "Python-based algorithm to precisely calculate object height from input parameters—demonstrating applied math and algorithmic thinking.",
+			"imgs": [
+				"assets/images/shc/1.webp"
+			],
+			"Technologies": [
+				"Python"
+			]
+		},
+		{
+			"Title": "Digital Screen Detector",
+			"Description": "Real-time detection of digital screens from live camera feeds, leveraging Python and YOLO for computer vision applications. [GitHub](https://github.com/emirbaycan/yolo_digital_screen_detector)",
+			"imgs": [
+				"assets/images/dsd/1.webp"
+			],
+			"ghLink": "https://github.com/emirbaycan/yolo_digital_screen_detector",
+			"Technologies": [
+				"Python",
+				"YOLO"
+			]
+		},
+		{
+			"Title": "Digital Screen Reader",
+			"Description": "Automated detection and reading of digital screens in live video streams, integrating OCR and computer vision with Python. [GitHub](https://github.com/emirbaycan/ocr_digital_screen_reader)",
+			"imgs": [
+				"assets/images/dsr/1.webp"
+			],
+			"ghLink": "https://github.com/emirbaycan/ocr_digital_screen_reader",
+			"Technologies": [
+				"Python",
+				"OpenCV",
+				"OCR"
+			]
+		},
+		{
+			"Title": "Digital Screen Alarm",
+			"Description": "Real-time digital screen monitoring with image capture and threshold-based alerting—triggers image saves when values exceed specified limits. [GitHub](https://github.com/emirbaycan/digital_screen_alarm_with_rtsp_camera)",
+			"imgs": [
+				"assets/images/dsa/1.webp"
+			],
+			"ghLink": "https://github.com/emirbaycan/digital_screen_alarm_with_rtsp_camera",
+			"Technologies": [
+				"Python",
+				"OpenCV",
+				"RTSP"
+			]
+		}
+	],
+	"OtherProjects.Title": "Other Noteworthy Projects",
+	"OtherProjects.Projects": [
+		{
+			"Title": "Name",
+			"Description": "description",
+			"ghLink": "github",
+			"demoLink": "demo",
+			"Technologies": [
+				"stack"
+			]
+		} 
+	],
+	"Contact.Pretitle": "What’s Next",
+	"Contact.Title": "Get in touch!",
+	"Contact.Content": "I will be happy to receive your contact if you want to talk about new opportunities. Write me, and I will reply as soon as I see your message. Simple one-page design that features a profile letter with basic information about a person.",
+	"Contact.Btn": "Say Hello",
+	"Testimonial.Title": "My clients' impressions of me",
+	"Testimonial.Items": [
+		{
+			"Comment": "Emir is the best",
+			"Name": "Philip Morrison",
+			"Position": "CEO",
+			"Company": "Philips",
+			"img": "assets/images/testimonial/philips.webp"
+		} 
+	]
+}
